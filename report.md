@@ -93,16 +93,19 @@ Each mapping describes what someone needs to do, not a chart type. For question 
 
 **Sketch 1: Age × order type**
 
+![Sketch 1: age by order type](sketch-1.jpeg)
 I wanted to know whether age influences what someone orders at Beggars, and whether there's a broader trend between age and ordering. I made one bracket per age range and drew an icon for each item type (pizza, wings, salad), repeating the icon for each item ordered. The 35-44 bracket has the most orders (5 pizzas and 1 salad), followed by 45-54 (3 pizzas and 1 wing order). Most respondents are 35-54, which may reflect who answers a QR survey as much as who orders, so Beggars' actual customer base and pricing history would be worth checking. Pizza dominates every bracket, so age doesn't visibly change what people order at this sample size. The brackets are different sizes, so raw counts aren't directly comparable across them.
 
 
 **Sketch 2: Satisfaction dot strip**
 
+![Sketch 1: satisfaction dot strip](sketch-2.jpeg)
 This is a basic dot plot showing overall satisfaction for every response in submission order. Vertical position is the rating, and shape marks location: filled dots for Lansing, open dots for West Loop, and a square where no location was given. It's not very insightful, but it gives a quick picture of satisfaction and exposes the single outlier rating of 1. It's also heavily biased, since nearly everyone gave a 5 and the people who scan a QR code are mostly happy customers. Dots at the same rating stack on top of each other, so you can't tell how many there are.
 
 
 **Sketch 3: Visit frequency × new items tried**
 
+![Sketch 1: new items by visit frequency](sketch-3.jpeg)
 This grid crosses visit frequency (rows) with each new menu item and the "haven't tried" and "haven't heard" answers (columns), with dot size showing the count. It's the most insightful of my three because it points at how well new items are marketed: 6 of the 10 regulars either haven't tried a new item or haven't heard of them. The question is multi-select, so one person can appear in several columns, and the dots count answers rather than separate people. It also shows counts rather than proportions, so regulars (n=10) dominate the picture. With a larger dataset, this could show which items corporate should promote to regular customers.
 
 
