@@ -99,14 +99,46 @@ I wanted to know whether age influences what someone orders at Beggars, and whet
 
 **Sketch 2: Satisfaction dot strip**
 
-![Sketch 1: satisfaction dot strip](sketch-2.jpeg)
+![Sketch 2: satisfaction dot strip](sketch-2.jpeg)
 This is a basic dot plot showing overall satisfaction for every response in submission order. Vertical position is the rating, and shape marks location: filled dots for Lansing, open dots for West Loop, and a square where no location was given. It's not very insightful, but it gives a quick picture of satisfaction and exposes the single outlier rating of 1. It's also heavily biased, since nearly everyone gave a 5 and the people who scan a QR code are mostly happy customers. Dots at the same rating stack on top of each other, so you can't tell how many there are.
 
 
 **Sketch 3: Visit frequency × new items tried**
 
-![Sketch 1: new items by visit frequency](sketch-3.jpeg)
+![Sketch 3: new items by visit frequency](sketch-3.jpeg)
 This grid crosses visit frequency (rows) with each new menu item and the "haven't tried" and "haven't heard" answers (columns), with dot size showing the count. It's the most insightful of my three because it points at how well new items are marketed: 6 of the 10 regulars either haven't tried a new item or haven't heard of them. The question is multi-select, so one person can appear in several columns, and the dots count answers rather than separate people. It also shows counts rather than proportions, so regulars (n=10) dominate the picture. With a larger dataset, this could show which items corporate should promote to regular customers.
 
+## Refined sketches
 
+After comparing my three initial sketches, I refined the two with the clearest problems. The age-by-order pictogram stayed as is.
+
+### Refined sketch 1: Satisfaction histogram
+
+![Refined sketch 1: satisfaction histogram](sketch-2-refined.jpeg)
+
+My dot strip showed every response as its own dot, which works for 15 responses but would be unreadable with thousands of tickets. I redrew it as a histogram: ratings run along the bottom and the height of each stack shows how many responses gave that score. This answers the same question as before, how satisfied respondents are and whether any response stands out, but it scales, and it makes the pile-up at 5 and the single outlier at 1 easy to compare across the chart. Position and length on a common scale are doing the work. A viewer should learn how concentrated satisfaction is at the top and how rare a low score is. 
+
+### Refined sketch 2: Visit frequency × new items tried
+
+![Refined sketch 2: visit frequency by new items tried](sketch-3-refined.jpeg)
+
+My first grid used dot size for counts, which made regulars (n=10) look more important than occasional visitors (n=3) or first-timers (n=2) just because there were more of them. In the refinement, each square is filled like a container of liquid: the more respondents in that square, the larger the wave, and I also shade the wave darker as the number rises, so the two channels reinforce each other. Rows are visit frequency and columns are the new-item categories. A viewer should be able to see at a glance which groups have or haven't tried the newer items, and where the awareness gap is largest. 
+
+---
+
+## Task 6: Summarizing
+
+I explored three directions: a pictogram of items ordered by age (icons repeated per item), a dot plot of individual satisfaction ratings, and a grid crossing two categorical attributes. My refinements pushed the second toward a histogram that scales and the third toward a design where group size doesn't dominate. The pictogram is the most readable for a general audience but only shows counts, and with groups of different sizes it can't be compared fairly. The dot plot is the simplest and exposed the one outlier, but it stops working as the data grows. The grid is the most expressive, since it relates two attributes and shows which items reached which customers, but it is the hardest to read, and its small rows are fragile with few responses.
+
+Sketching changed my questions more than I expected. I started out asking what was popular and ended up asking who answered and what the data is missing. Satisfaction turned out to have almost no variation, so the histogram's value is mostly in showing the outlier, and the grid made the awareness gap among regulars the most interesting finding. Knowing the data was self-selected and small shaped my designs: I stopped trying to compare Lansing with West Loop, I avoided charts that would hide group sizes, and I labeled small rows with their n.
+
+My sketches mostly use dots, icons, position and shade, so the range of techniques is narrower than I'd like. I never sketched anything with the timestamp, which would have shown response volume dropping off once the box-toppers ran out. If I collected again, I would get more West Loop responses, and replace the free-text order field with checkboxes to avoid the bucketing step.
+
+---
+
+## Task 7: Collaboration process
+
+I completed this assignment individually, so collaboration here means coordination with people outside the course rather than teammates. I emailed Professor Miranda directly when deciding whether to pivot from Cor Coffee and again when I needed an extension. At the Lansing location, I spoke with my managers in person to get approval for posting the materials. With Beggars' corporate contacts, Amanda and Michelle, I communicated over Telegram and by phone, including a call with Michelle to follow up on the printed materials.
+
+What worked well: in-person conversations with my Lansing managers were fast and easy since I already work there. What was harder: coordinating with corporate was slower and less predictable, since printing and distribution depended on their internal timeline, not mine, and I had no way to speed that up once it stalled .
 
