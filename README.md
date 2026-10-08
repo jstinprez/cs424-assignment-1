@@ -26,7 +26,7 @@ As stated in my pivot proposal to Professor Miranda:
 
 One observation = one submitted survey response, collected via a QR code on an in-store poster and a box-topper stapled to every pizza box, so every customer who ordered a pizza would see it. Responses fed directly into a connected Google Sheet. I estimated volume using Lansing's typical ticket counts (~300 tickets/weekday, 500+/weekend day, ~5,000 tickets over two weeks) and a conservative 5% voluntary response rate, projecting roughly 250 observations. Collection was planned across both locations to capture the two-dimension variation the assignment asks for: location (urban vs. suburban) and time (across different days/weeks).
 
-**What this plan could fail to capture:** customers who don't notice or bother with a QR code, and non-English speakers.
+**What this plan could fail to capture:** customers who don't notice or bother with a QR code, and non-English speakers. Respondents are self-selected, so the data does not represent the customer base fairly.
 
 ### Division of labor 
 
@@ -142,5 +142,5 @@ My sketches mostly use dots, icons, position and shade, so the range of techniqu
 
 I completed this assignment individually, so collaboration here means coordination with people outside the course rather than teammates. I emailed Professor Miranda directly when deciding whether to pivot from Cor Coffee and again when I needed an extension. At the Lansing location, I spoke with my managers in person to get approval for posting the materials. With Beggars' corporate contacts, Amanda and Michelle, I communicated over Telegram and by phone, including a call with Michelle to follow up on the printed materials.
 
-What worked well: in-person conversations with my Lansing managers were fast and easy since I already work there. What was harder: coordinating with corporate was slower and less predictable, since printing and distribution depended on their internal timeline, not mine, and I had no way to speed that up once it stalled .
+What worked well: in-person conversations with my Lansing managers were fast and easy since I already work there. What was harder: coordinating with corporate was slower and less predictable, since printing and distribution depended on their internal timeline, not mine, and I had no way to speed that up once it stalled.
 
