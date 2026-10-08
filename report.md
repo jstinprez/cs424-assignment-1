@@ -60,6 +60,8 @@ The real problem showed up after the pilot, not in it. Box-toppers ran out that 
 
 So the actual lesson here wasn't about my collection method. The questions, the QR code, the one-observation-per-submission structure, all of that worked. What failed was something outside my control: depending on a third party's printing and distribution timeline, which fell through without warning. I didn't push Beggars for more materials once the supply ran out. They had already printed everything for free as a favor, and I didn't want to pressure a business contact over a class assignment.
 
+The final dataset is in [`survey-responses.csv`](survey-responses.csv).
+
 ## Task 3: Data description and domain questions
 
 **The dataset.** I collected 15 survey responses between Sept 21 and Oct 5, 2026, through a QR code on in-store posters and pizza-box toppers. Thirteen responses are from Lansing, one is from West Loop, and one has no location. Respondents skew toward regulars (10 of 15) and ages 35-44 (6 of 15). Satisfaction is clustered at the top (mean 4.6), with one 1/1/1/1 response whose comment ("Fire justin") reads as a joke aimed at me rather than real feedback. I kept it in the dataset but flag it as likely non-genuine. The sample is also self-selected, so it probably over-represents happy, engaged customers. Two attributes were hard to record: the free-text order field, which I had to bucket into pizza, wings, salad and other, and the new-item question, where one respondent checked both "haven't tried any" and "haven't heard of them."
